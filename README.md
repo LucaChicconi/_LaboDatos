@@ -1,11 +1,25 @@
 # TODO Ejercicios resueltos de Labo de Datos 1c2026
 
-### 9/4
-Terminada la guía 1
+## 17/4
+Ejercicios 1,2 y 4 de la práctica 4 hechos
+Hay que hacer preguntas
 
-Falta hacer :
+## 16/4 
+Termino práctica 3
+Se puede hacer hasta el ejercicio 4
+de la práctica 4
+## 16/4
 
-La guía 2 y la 3 xd.
+upload clase del 15/4 completa + Comienzo práctica 3
+
+Se puede hacer hasta: 
+El ejercicio 4 de la práctica 4
+
+## 15/4
+
+finally terminé la práctica 2
+### 14/4
+"Arreglé" la cagada de las versiones de python. Honestamente no estan importante así que ahora se ignora el venv
 
 ### 10/4
 
@@ -13,24 +27,10 @@ Hecha la guia 2 hasta el ejercicio 9
 
 Queda hacer la sección de Gapminder, Archivos de datos y Estadística Descriptiva
 
-### 14/4
-"Arreglé" la cagada de las versiones de python. Honestamente no estan importante así que ahora se ignora el venv
 
-## 15/4
+### 9/4
+Terminada la guía 1
 
-finally terminé la práctica 2
+Falta hacer :
 
-## 16/4
-upload clase del 15/4 completa + Comienzo práctica 3
-
-Se puede hacer hasta: 
-El ejercicio 4 de la práctica 4
-
-## 16/4 
-Termino práctica 3
-Se puede hacer hasta el ejercicio 4
-de la práctica 4
-
-## 17/4
-Ejercicios 1,2 y 4 de la práctica 4 hechos
-Hay que hacer preguntas
+La guía 2 y la 3 xd.
