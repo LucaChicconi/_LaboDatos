@@ -25,3 +25,8 @@ upload clase del 15/4 completa + Comienzo práctica 3
 
 Se puede hacer hasta: 
 El ejercicio 4 de la práctica 4
+
+## 16/4 
+Termino práctica 3
+Se puede hacer hasta el ejercicio 4
+de la práctica 4
